@@ -3,7 +3,7 @@ Testing the quality of geocoding servers.
 
 Geocoders, or geocoder/geocoding servers, provide the core support for geocoding ("the process of taking input text, such as an address or the name of a place, and returning a latitude/longitude location on the Earth's surface for that place". [Source: [pelias](https://pelias.io/)]). 
 
-There are a number of geocoders available under different access conditions, which has created the task of comparing them. These comparisons are often guided by the cost, coverage, volume and speed of the transactions, but they seldom address the issue of the quality or accuracy of the information provided. (For example: https://www.geocod.io/compare/. Of course there are detailed and comprehensive evaluations, as in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834528/).
+There are a number of geocoders available under different access conditions, which has created the task of comparing them. These comparisons are often guided by the cost, coverage, volume and speed of the transactions, but they seldom address the issue of the quality or accuracy of the information provided. (For example [geocod](https://www.geocod.io/compare/). Of course there are detailed and comprehensive evaluations, as in [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834528/)).
 
 I have found that the accuracy provided by the geocoders can be pretty bad.
 
